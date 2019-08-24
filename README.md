@@ -11,3 +11,7 @@ github测试项目，供大家熟悉git和github的用法。
 * 了解branch的用法；
 * PR是什么东东？
 
+# git参考资料
+* [git讲座1](http://softlab.sdut.edu.cn/wiki/index.php?title=Git%E5%AE%9E%E6%88%98)
+
+
