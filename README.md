@@ -8,7 +8,7 @@ github测试项目，供大家熟悉git和github的用法。
 * git的pull/add/commit/push基本流程；
 * 回退的方法；
 * 冲突的解决方法，stash是一个办法；
-* 了解branch的用法；
+* 了解branch的用法
 * PR是什么东东？
 
 # git参考资料
