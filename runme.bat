@@ -9,3 +9,7 @@ echo # http://cygwin.com/cygwin-ug-net/using.html#mount-table >>msys2/etc/fstab
 echo none / cygdrive binary,posix=0,noacl,user 0 0 >>msys2/etc/fstab
 echo %MYPATH%pm3 /pm3 ntfs noacl 0 0 >>msys2/etc/fstab
 echo echoe4cho
+
+随便
+
+再改一点
