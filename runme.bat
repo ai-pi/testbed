@@ -1,4 +1,4 @@
-@echo off
+﻿@echo off
 REM *******************************************
 REM CHANGE THIS PATH TO MATCH YOUR INSTALLATION
 REM *******************************************
@@ -13,3 +13,6 @@ echo echoe4cho
 随便
 
 再改一点
+
+
+666
