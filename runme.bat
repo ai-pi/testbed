@@ -11,3 +11,5 @@ echo %MYPATH%pm3 /pm3 ntfs noacl 0 0 >>msys2/etc/fstab
 echo echoe4cho
 
 随便
+
+再改一点
